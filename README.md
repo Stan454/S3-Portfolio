@@ -1,4 +1,6 @@
-# S3-Portfolio
-Portfolio 
+# S3-Portfolio Stan Akkermans
 
-![image](https://user-images.githubusercontent.com/99740736/157420324-7bf8f6d9-fe38-4332-b0a1-4b91097c5adc.png)
+
+WELKOM OP MIJN PORTFOLIO!
+
+![ALT TEXT](https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif)
