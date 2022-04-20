@@ -86,7 +86,7 @@ You analyze and describe simple business processes that are related to your proj
 # 8	Professional
 You act in a professional manner during software development and learning. <a name="Professional"></a>
 
-Ik vraag feedback aan groepsleden en pas deze toe.
+Om een professionele werkhouding te hebben vraag ik feedback aan medestudenten en de stakeholders. Deze feedback pas ik vervolgens toe aan mijn werk of werkhouding
 ![image](https://user-images.githubusercontent.com/99740736/164230119-89f82fc8-ff27-4c54-b2a9-2b13346b1391.png)
 
 <em>Peerfeedback moment</em>
