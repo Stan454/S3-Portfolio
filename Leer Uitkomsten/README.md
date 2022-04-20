@@ -28,10 +28,11 @@ Functionaliteit tussen de frontend en backend wordt geregeld met calls naar de A
 
 ![image](https://user-images.githubusercontent.com/99740736/164225859-512f3660-92e6-4ce1-885a-82c6bf243e2d.png)
 
+<em>ProductController met de API</em>
 
 ![image](https://user-images.githubusercontent.com/99740736/164225222-540fc2a6-1392-4e4d-9ad4-2b357b92048d.png)
 
-
+<em>Homepagina voor de webshop</em>
 
 # 2	Software quality
 You use software tooling and methodology that continuously monitors and improve the software quality during software development. <a name="Softwarequality"></a>
@@ -40,6 +41,7 @@ Om de API calls te testen heb ik Swagger gebruikt.
 
 ![image](https://user-images.githubusercontent.com/99740736/164226762-ebc4add6-3816-42cd-884c-423ccf86f3b9.png)
 
+<em>Met Swagger test ik de API en de invoer voor de database</em>
 
 # 3	CI/CD
 You implement a (semi)automated software release process that matches the needs of the project context. <a name="CI/CD"></a>
@@ -74,9 +76,11 @@ Voor zowel het groeps als individuele project heb ik een analyse gemaakt met req
 You analyze and describe simple business processes that are related to your project. <a name="Businessprocesses"></a>
 
 ![image](https://user-images.githubusercontent.com/99740736/164228671-38870665-55f1-4b58-9b0a-56e81f03c8fe.png)
+
 <em>(groepsproject) analyse/onderzoek naar hoe andere projecten onze use cases aanpakken</em>
 
 ![image](https://user-images.githubusercontent.com/99740736/164229513-5fa4004c-63f8-4d7b-b1d3-f403f1624854.png)
+
 <em>(groepsproject) Business processen voor onze usecases</em>
 
 # 8	Professional
