@@ -56,21 +56,34 @@ You recognize and take into account cultural differences between project stakeho
 # 6	Requirements and Design
 You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques. <a name="Requirementsanddesign"></a>
 
-Voor zowel het groeps als individuele project heb ik een analyze gemaakt met requirements. Verder heb ik een architecture document opgezet voor mijn project en deze toegepast op mijn hudige project.
+Voor zowel het groeps als individuele project heb ik een analyse gemaakt met requirements. Verder heb ik een architecture document opgezet voor mijn project en deze toegepast op mijn hudige project.
 
 ![image](https://user-images.githubusercontent.com/99740736/164227402-f308abaa-f3c5-4c62-94e5-f25009e0ca46.png)
-<em>(individueel) software architecture</em> 
+
+<em>(individueel) functional requirements</em> 
 
 ![image](https://user-images.githubusercontent.com/99740736/164227760-38c611ac-f2dd-47af-98b0-e6b81a5cdbd6.png)
 
+<em>(individueel) container diagram software architecture</em> 
+
 ![image](https://user-images.githubusercontent.com/99740736/164228461-610fd74c-823a-4382-a146-30e7307a4693.png)
+
 <em>(groepsproject) Context diagram</em>
 
 # 7	Business processes
 You analyze and describe simple business processes that are related to your project. <a name="Businessprocesses"></a>
 
 ![image](https://user-images.githubusercontent.com/99740736/164228671-38870665-55f1-4b58-9b0a-56e81f03c8fe.png)
-<em>(groepsproject) analyze </em>
+<em>(groepsproject) analyse/onderzoek naar hoe andere projecten onze use cases aanpakken</em>
+
+![image](https://user-images.githubusercontent.com/99740736/164229513-5fa4004c-63f8-4d7b-b1d3-f403f1624854.png)
+<em>(groepsproject) Business processen voor onze usecases</em>
 
 # 8	Professional
 You act in a professional manner during software development and learning. <a name="Professional"></a>
+
+Ik vraag feedback aan groepsleden en pas deze toe.
+![image](https://user-images.githubusercontent.com/99740736/164230119-89f82fc8-ff27-4c54-b2a9-2b13346b1391.png)
+
+<em>Peerfeedback moment</em>
+
