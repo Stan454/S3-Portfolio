@@ -23,6 +23,7 @@
 You design and build user-friendly, full-stack web applications. <a name="WebApplicatie"></a>
 
 Mijn web applicatie heet "de webshop" en is een webshop voor een dierenspeciaalzaak.
+
 Functionaliteit tussen de frontend en backend wordt geregeld met calls naar de API-services. De API maakt het mogelijk om alle producten van de Product service te krijgen.
 
 ![image](https://user-images.githubusercontent.com/99740736/164225859-512f3660-92e6-4ce1-885a-82c6bf243e2d.png)
@@ -34,6 +35,10 @@ Functionaliteit tussen de frontend en backend wordt geregeld met calls naar de A
 
 # 2	Software quality
 You use software tooling and methodology that continuously monitors and improve the software quality during software development. <a name="Softwarequality"></a>
+
+Om de API calls te testen heb ik Swagger gebruikt.
+
+![image](https://user-images.githubusercontent.com/99740736/164226762-ebc4add6-3816-42cd-884c-423ccf86f3b9.png)
 
 
 # 3	CI/CD
