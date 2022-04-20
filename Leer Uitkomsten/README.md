@@ -22,6 +22,15 @@
 # 1	Web application
 You design and build user-friendly, full-stack web applications. <a name="WebApplicatie"></a>
 
+Mijn web applicatie heet "de webshop" en is een webshop voor een dierenspeciaalzaak.
+Functionaliteit tussen de frontend en backend wordt geregeld met calls naar de API-services. De API maakt het mogelijk om alle producten van de Product service te krijgen.
+
+![image](https://user-images.githubusercontent.com/99740736/164225859-512f3660-92e6-4ce1-885a-82c6bf243e2d.png)
+
+
+![image](https://user-images.githubusercontent.com/99740736/164225222-540fc2a6-1392-4e4d-9ad4-2b357b92048d.png)
+
+
 
 # 2	Software quality
 You use software tooling and methodology that continuously monitors and improve the software quality during software development. <a name="Softwarequality"></a>
