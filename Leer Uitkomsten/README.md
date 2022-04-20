@@ -17,8 +17,10 @@ Aantoning Leeruitkomsten semester 3
 
 8 [Professional](#Professional)
 
+#
 
-# 1	Web application : You design and build user-friendly, full-stack web applications. <a name="WebApplicatie"></a>
+# 1	Web application: 
+You design and build user-friendly, full-stack web applications. <a name="WebApplicatie"></a>
 
 
 # 2	Software quality: You use software tooling and methodology that continuously monitors and improve the software quality during software development. <a name="Softwarequality"></a>
