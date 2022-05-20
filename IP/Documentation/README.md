@@ -91,8 +91,24 @@ Voor Java: Spring, Jetty, Java EE
 Waarom is het framework dat ik heb gekozen geschikt voor mijn toepassing?
 .Net Core word is een nieuwere framework en bied ook ondersteuning voor andere platforms zoals Linux of macOS. Dit is de juiste keuze voor mijn project zodat het project op elk platform ondersteund zal worden.
 
+Wat is Unit Of Work?
+Een unit of work wordt gebruikt om verschillende crud operaties en meerdere repositories uit voeren als een single unit of work. Dit betekent dat alle operaties foutloos worden uitgevoerd tijdens een transactie of niets als er iets fout gaat en dan ook niks gecommit wordt in de persistence storage. Dit verhelpt database incositencies. De Unit Of Work in de controller code bevat dus de repositories waarbij je eerst de uow aanroept en daarna de repo.
+
+![image](https://user-images.githubusercontent.com/99740736/169502833-e5b61020-489d-494e-a9e0-076f71a6abae.png)
 
 
+Waarom gebruik je Dto's?
+Het gebruik van Dto's is standaard uit het principe solid binnen het OOP-Programming. De 3 grootste redenen voor het gebruik van Dto's zijn:
+
+1. Het scheiden van client en interne implementatie. Zo zou je je ORM of andere service kunnen aanpassen zonder dat dit direct invloed heeft op de Client.
+2. Het afschermen van data die de client niet mag zien, bijvoorbeeld Id's of andere sensitieve gegevens.
+3. Het voorkomen van overposting vulnerabilities, door de client niet alle data in te laten vullen beheerst je applicatie de controle en invoer op de database.
+
+Wat is AutoMapper?
+AutoMapper is een opensource library waarmee je grote aantallen getallen kan mappen en zo een hoop tijd kan besparen. Door de dto's met AutoMapper aan te passen werken jij en je applicatie efficienter.
+
+![image](https://user-images.githubusercontent.com/99740736/169500865-a276f5fe-b413-4067-92bc-7e4ba7e88350.png)
+![image](https://user-images.githubusercontent.com/99740736/169500924-115d3099-970b-4694-bb2a-08c18437f963.png)
 
 ## 1.1	Wat is het C4 model?
 
