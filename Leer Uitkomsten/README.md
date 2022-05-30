@@ -92,3 +92,15 @@ Om een professionele werkhouding te hebben vraag ik feedback aan medestudenten e
 
 <em>Peerfeedback moment</em>
 
+Zelfreflectie
+
+![image](https://user-images.githubusercontent.com/99740736/170997295-3ed595ea-7edc-4fe0-8e23-ba1b36c8e0bf.png)
+
+Ondanks het plannen van de laatste paar sprints heb ik niet veel werk kunnen leveren. De eerste paar weken probeerde ik mezelf nog aan de planning te houden maar zodra er een paar tegenslagen waren en ik achterliep op de planning begon mijn werkhouding zwaar achteruit te gaan. Ik heb een aantal dagen niet gewerkt terwijl ik hier wel de drang naar had. Het moeilijkste was dan ook om eenmaal te beginnen en door te blijven werken als ik vast liep. 
+
+Enige oplossingen hiervoor zouden kunnen zijn:
+
+1. Eerder om hulp vragen van klasgenoten (niet alleen degene die rondom mij zitten) of een docent.
+2. Vanaf de eerste sprint een planning maken en hier genoeg tijd bijinplannen zodat er ruimte is voor tegenvallers.
+3. Genoeg rust nemen als iets niet werkt. 
+
