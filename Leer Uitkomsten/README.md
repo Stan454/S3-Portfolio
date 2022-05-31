@@ -86,7 +86,7 @@ You analyze and describe simple business processes that are related to your proj
 # 8	Professional
 You act in a professional manner during software development and learning. <a name="Professional"></a>
 
-Om een professionele werkhouding te hebben vraag ik feedback aan medestudenten en de stakeholders. Deze feedback pas ik vervolgens toe aan mijn werk of werkhouding
+Om een professionele werkhouding te hebben vraag ik feedback aan medestudenten en de stakeholders. Deze feedback pas ik vervolgens toe aan mijn werk of werkhouding, Een aantal voorbeelden: Tijdens een paar peer-feedback momenten kreeg ik zo te horen om meer te documenteren over wat ik gedaan heb en dat ik wat vaker van mezelf moet laten horen.
 
 ![image](https://user-images.githubusercontent.com/99740736/164230119-89f82fc8-ff27-4c54-b2a9-2b13346b1391.png)
 
@@ -96,7 +96,8 @@ Zelfreflectie
 
 ![image](https://user-images.githubusercontent.com/99740736/170997295-3ed595ea-7edc-4fe0-8e23-ba1b36c8e0bf.png)
 
-Ondanks het plannen van de laatste paar sprints heb ik niet veel werk kunnen leveren. De eerste paar weken probeerde ik mezelf nog aan de planning te houden maar zodra er een paar tegenslagen waren en ik achterliep op de planning begon mijn werkhouding zwaar achteruit te gaan. Ik heb een aantal dagen niet gewerkt terwijl ik hier wel de drang naar had. Het moeilijkste was dan ook om eenmaal te beginnen en door te blijven werken als ik vast liep. 
+Ondanks het plannen van de laatste paar sprints heb ik niet veel werk kunnen leveren. De eerste paar weken van de laatste sprints probeerde ik mezelf nog aan de planning te houden maar zodra er een paar tegenslagen waren en ik achterliep op de planning begon mijn werkhouding zwaar achteruit te gaan. Ik heb een aantal dagen niet gewerkt terwijl ik hier wel de drang naar had. Het moeilijkste was dan ook om eenmaal te beginnen en door te blijven werken als ik vast liep. 
+Voor het groepsproject heb ik nog wel zoveel mogelijk gedaan als ik kon aangezien ik mijn groepsgenoten niet wil benadelen. 
 
 Enige oplossingen hiervoor zouden kunnen zijn:
 
